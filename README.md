@@ -1,0 +1,1 @@
+I built an AI-powered mock interview platform using Next.js, Tailwind, Vapi, and Firebase. It lets users practice interviews with real-time AI feedback. This project showcases full-stack skills, real-world AI integration, and helps users prep effectively for interviews.
